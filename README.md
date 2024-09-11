@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shengpo</h1>
 <h3 align="center">Mixture of AI/ML and software development experience</h3>
 
-- ⚡ Fun fact **Enjoy music festival**
+- ⚡ Fun fact: **Enjoy music festival!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
