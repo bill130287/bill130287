@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Leetcode Stats](https://leetcard.jacoblin.cool/bill130287?ext=heatmap)
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=bill130287)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=bill130287&theme=github-dark)
 <!--
 **bill130287/bill130287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
