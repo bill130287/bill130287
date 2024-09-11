@@ -19,7 +19,7 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg#gh-light-mode-only" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -30,33 +30,6 @@
 </p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/bill130287?ext=heatmap)
-
-![GitHub Snake Light](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg#gh-dark-mode-only)
 
 
 <!--## Hi there 👋
